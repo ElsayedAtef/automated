@@ -1,0 +1,15 @@
+{
+  "episode": 1,
+  "hook": {"top": "The board wants", "big": "AI", "sub": "in 90 days.", "count": 90, "ar": "والكل بيبص عليك"},
+  "cards": {"title": "The reality", "ar": "الواقع", "items": [
+    ["Data in 6+ systems", "الداتا مش بتكلم بعض"],
+    ["Regulator: \"Why did the model decide?\"", "لازم explainability"],
+    ["IT already over capacity", "الفريق مضغوط أصلاً"],
+    ["Competitor launched a chatbot", "والبيزنس عايز زيه"]]},
+  "options": {"title": "Where do you start?", "ar": "تبدأ بإيه؟", "items": [
+    ["A", "Launch the chatbot", "نتايج سريعة وباينة"],
+    ["B", "One high-value use case", "fraud / collections + ROI"],
+    ["C", "Fix the data foundation", "الداتا الأول قبل أي model"],
+    ["D", "Governance first", "AI governance framework"]]},
+  "cta": {"line1": "Most bank AI projects", "line2": "don't fail because of the model.", "highlight": "They fail before it's trained.", "button": "A, B, C or D?  Comment", "ar": "اكتب إجابتك في الكومنتات"}
+}
